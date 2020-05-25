@@ -4,8 +4,11 @@ Zombie Hop is a simple arcade game where the player has to jump over the catcuse
 
 The ultimate goal of making this game is to automating it with genetic algorithm 😍 where our Zombie will learn to jump over cactuses and eventually win the game
 
+# Instructions
+
 To start the game, please press the right arrow key 👍
 
+# Gameplay-Snapshots
 ![alt text](https://raw.githubusercontent.com/pradneshhhh/Zombie-Hop/master/zombie%20hop.JPG)
 
 
